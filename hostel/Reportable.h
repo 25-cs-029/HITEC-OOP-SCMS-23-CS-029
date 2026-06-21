@@ -1,7 +1,7 @@
 /**
  * @file    Reportable.h
  * @brief   Abstract reporting interface
- * @author  Ahmad Ali (25-CS-067), Umer Altaf (25-CS-057), Muhammed Ahmad (25-CS-252)
+ * @author  Ahmad Habib 042 Ali HAmmad 029
  * @course  CS-104L: Object-Oriented Programming
  * @inst    HITEC University Taxila
  * @date    2026-06-05
