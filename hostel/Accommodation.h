@@ -1,7 +1,7 @@
 /**
  * @file    Accommodation.h
  * @brief   Abstract accommodation interface
- * @author  Ahmed Habib 042 Ali Hammad
+ * @author  Ahmed Habib 042 Ali Hammad 029
  * @course  CS-104L: Object-Oriented Programming
  * @inst    HITEC University Taxila
  * @date    2026-06-05
