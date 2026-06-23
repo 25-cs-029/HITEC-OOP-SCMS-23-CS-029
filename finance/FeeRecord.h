@@ -1,13 +1,4 @@
-/**
- * @file    FeeRecord.h
- * @brief   Student fee record class
- * @author  Ahmad Habib (042) Ali Hammad (029)
- * @course  CS-104L: Object-Oriented Programming
- * @inst    HITEC University Taxila
- * @date    2026-06-05
- *
- * OOP Concepts: Copy Constructor, Copy Assignment, Operator Overloading
- */
+
 
 #ifndef FEERECORD_H
 #define FEERECORD_H
