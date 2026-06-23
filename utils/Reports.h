@@ -1,13 +1,3 @@
-/**
- * @file    Reports.h
- * @brief   Report functions for SCMS
- * @author  Ahmad Habib 042 Ali hammad 029
- * @course  CS-104L: Object-Oriented Programming
- * @inst    HITEC University Taxila
- * @date    2026-06-05
- *
- * OOP Concepts: Reporting, Sorting, Searching, File I/O
- */
 
 #ifndef REPORTS_H
 #define REPORTS_H
