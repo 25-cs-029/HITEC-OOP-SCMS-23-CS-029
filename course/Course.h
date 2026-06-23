@@ -1,13 +1,4 @@
-/**
- * @file    Course.h
- * @brief   Course class for course and enrollment management
- * @author  Ahmad Habib (25-cs-042), Ali Hammad (---029)
- * @course  CS-104L: Object-Oriented Programming
- * @inst    HITEC University Taxila
- * @date    2026-06-05
- *
- * OOP Concepts: Encapsulation, Operator Overloading, Aggregation
- */
+
 
 #ifndef COURSE_H
 #define COURSE_H
